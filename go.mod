@@ -1,4 +1,4 @@
-module github.com/cromozooom/gohugo-modules
+module github.com/scrollodex/hugo-modules
 
 go 1.16
 
